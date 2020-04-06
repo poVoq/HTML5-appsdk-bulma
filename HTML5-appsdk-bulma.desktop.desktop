@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=HTML5-appsdk-bulma
+Exec=webapp-container --app-id="HTML5-appsdk-bulma.povoq" $@ www/index.html --maximized
+Icon=assets/logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+Name[en_US]=HTML5-appsdk-bulma.desktop
